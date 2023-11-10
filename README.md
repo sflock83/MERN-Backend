@@ -1,8 +1,6 @@
 # MERN-Backend
 
 ```mermaid
-flowchart TB
-  a[Test]
-end
+flowchart TB;
+  a[Test];
 ```
-
